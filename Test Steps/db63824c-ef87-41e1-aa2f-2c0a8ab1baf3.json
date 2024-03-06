@@ -1,0 +1,11 @@
+{
+    "steps": [
+        "step 1: Navigate to https://tiki.vn/",
+        "step 2: Click on link '\\u0111i\\u1ec7n gia d\\u1ee5ng' -> Navigate to page 'dien-gia-dung/*'",
+        "step 3: Click on link 'xe c\\u1ed9' -> Navigate to page 'o-to-xe-may-xe-dap/*'",
+        "step 4: Click on link 'm\\u1eb9 & b\\xe9' -> Navigate to page 'do-choi-me-be/*'",
+        "step 5: Click on link 'kh\\u1ecfe \\u0111\\u1eb9p' -> Navigate to page 'lam-dep-suc-khoe/*'",
+        "step 6: Click on link 'nh\\xe0 c\\u1eeda' -> Navigate to page 'nha-cua-doi-song/*'",
+        "step 7: Take full page screenshot as checkpoint"
+    ]
+}
