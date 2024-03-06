@@ -1,11 +1,19 @@
 Flow ID,Name,Description,Test Steps,Flow Priority
-1,Verify Home Appliance Page Navigation,"Navigate to the home page and access the home appliance section. Proceed to the toys and baby products section, then to the beauty and health section. Finally, access the household and lifestyle section and verify the displayed page.","step 1: Navigate to https://tiki.vn/
-step 2: Click on link '\u0111i\u1ec7n gia d\u1ee5ng' -> Navigate to page 'dien-gia-dung/*'
-step 3: Click on link 'xe c\u1ed9' -> Navigate to page 'o-to-xe-may-xe-dap/*'
-step 4: Click on link 'm\u1eb9 & b\xe9' -> Navigate to page 'do-choi-me-be/*'
-step 5: Click on link 'kh\u1ecfe \u0111\u1eb9p' -> Navigate to page 'lam-dep-suc-khoe/*'
-step 6: Click on link 'nh\xe0 c\u1eeda' -> Navigate to page 'nha-cua-doi-song/*'
-step 7: Take full page screenshot as checkpoint",High
-2,Verify Navigation to Tiki Bookstore Page,Navigate to the home page and click on the Tiki bookstore section. Verify the displayed Tiki bookstore page.,"step 1: Navigate to https://tiki.vn/
+1,Verify Page Thiet Bi Kts Phu Kien So,Navigate to the home page and access the Thiet Bi Kts Phu Kien So page. Verify the displayed page.,"step 1: Navigate to https://tiki.vn/
+step 2: Click on link 'Thi\u1ebft B\u1ecb S\u1ed1 - Ph\u1ee5 Ki\u1ec7n S\u1ed1' -> Navigate to page 'thiet-bi-kts-phu-kien-so/*'
+step 3: Take full page screenshot as checkpoint",High
+2,Verify Page O To Xe May Xe Dap,"Navigate to the home page and access the Do Choi Me Be, Lam Dep Suc Khoe, Dien Gia Dung, and Xe O To Xe May Xe Dap pages. Verify the displayed Xe O To Xe May Xe Dap page.","step 1: Navigate to https://tiki.vn/
+step 2: Click on link '\u0110\u1ed3 Ch\u01a1i - M\u1eb9 & B\xe9' -> Navigate to page 'do-choi-me-be/*'
+step 3: Click on link 'kh\u1ecfe \u0111\u1eb9p' -> Navigate to page 'lam-dep-suc-khoe/*'
+step 4: Click on link '\u0111i\u1ec7n gia d\u1ee5ng' -> Navigate to page 'dien-gia-dung/*'
+step 5: Click on link 'xe c\u1ed9' -> Navigate to page 'o-to-xe-may-xe-dap/*'
+step 6: Take full page screenshot as checkpoint",Medium
+3,Verify Page Nha Cua Doi Song,Navigate to the home page and access the Nha Cua Doi Song page. Verify the displayed page.,"step 1: Navigate to https://tiki.vn/
+step 2: Click on link 'Nh\xe0 C\u1eeda - \u0110\u1eddi S\u1ed1ng' -> Navigate to page 'nha-cua-doi-song/*'
+step 3: Take full page screenshot as checkpoint",Low
+4,Verify Page Dien Thoai May Tinh Bang,Navigate to the home page and access the Dien Thoai May Tinh Bang page. Verify the displayed page.,"step 1: Navigate to https://tiki.vn/
+step 2: Click on link '\u0110i\u1ec7n Tho\u1ea1i - M\xe1y T\xednh B\u1ea3ng' -> Navigate to page 'dien-thoai-may-tinh-bang/*'
+step 3: Take full page screenshot as checkpoint",Low
+5,Verify Page Nha Sach Tiki,Navigate to the home page and access the Nha Sach Tiki page. Verify the displayed page.,"step 1: Navigate to https://tiki.vn/
 step 2: Click on link 'Nh\xe0 S\xe1ch Tiki' -> Navigate to page 'nha-sach-tiki/*'
 step 3: Take full page screenshot as checkpoint",Trivial
